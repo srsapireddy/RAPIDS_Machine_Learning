@@ -1,5 +1,18 @@
 # RAPIDS_Machine_Learning
 
+## Data Science Ecosystem
+![image](https://github.com/srsapireddy/RAPIDS_Machine_Learning/assets/32967087/27f7e421-d655-4d72-9dfb-471d62bc94fe)
+
+## RAPIDS API
+![image](https://github.com/srsapireddy/RAPIDS_Machine_Learning/assets/32967087/915b78a5-2416-481a-8a21-dfbc4293ab0c)
+
+## Integration Tools
+![image](https://github.com/srsapireddy/RAPIDS_Machine_Learning/assets/32967087/95b1f74b-2f1f-476d-8499-8d8f7858d845)
+
+## CUDA
+![image](https://github.com/srsapireddy/RAPIDS_Machine_Learning/assets/32967087/130692d3-01a4-4709-9d85-2acac88c7702)
+
+
 ## 1 NVIDIA RAPIDS Complete Project Overview
 
 ### Introduction
